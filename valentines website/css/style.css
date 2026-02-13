@@ -80,11 +80,11 @@ body, html {
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 0.5px solid rgba(0, 0, 0, 0.164);
+    
 }
 
 .yes-no {
-    height: 30%;
+    height: 50%;
     width: 100%;
     display: flex;
     align-items: center;
@@ -127,8 +127,9 @@ body, html {
 
 a {
     text-decoration: none;
-    font-family: "Allura", serif;
-    font-size: 7vh;
+    font-family: "Poppins", serif;
+    font-size: 1.2rem;
+
 }
 
 /* for mobile display */
