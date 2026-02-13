@@ -61,7 +61,7 @@ yes.addEventListener("click", () => {
   gif.style.margin = "0 auto"; // Centers the gif horizontally
   gif.style.marginBottom = "0"; // Removes bottom gap for gif
   text.innerHTML = "I miss you 😘";
-  text.innerHTML = '<a href="">Happy Valentines Babe! Sorry kung hanggang ganito lang ang makakaya ko sa ngayon, babawi ako sa susunod na habang buhay</a>'; // inside the " " put your social media profile link
+  text.innerHTML = '<a href="">Happy Valentines Babe! Sorry kung hanggang ganito lang ang makakaya ko sa ngayon, babawi ako sa susunod na habang buhay. I MISS YOU!! ay AHAHHAHAH </a>'; // inside the " " put your social media profile link
   text.style.textAlign = "center"; // Centers the text/message
   text.style.marginBottom = "0"; // Removes bottom gap for text
   yes.style.display = "none";
